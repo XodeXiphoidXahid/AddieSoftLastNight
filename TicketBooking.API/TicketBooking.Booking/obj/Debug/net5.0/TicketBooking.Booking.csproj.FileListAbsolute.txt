@@ -1,0 +1,5 @@
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Booking\obj\Debug\net5.0\TicketBooking.Booking.csproj.AssemblyReference.cache
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Booking\obj\Debug\net5.0\TicketBooking.Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Booking\obj\Debug\net5.0\TicketBooking.Booking.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Booking\obj\Debug\net5.0\TicketBooking.Booking.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Booking\obj\Debug\net5.0\TicketBooking.Booking.csproj.CoreCompileInputs.cache

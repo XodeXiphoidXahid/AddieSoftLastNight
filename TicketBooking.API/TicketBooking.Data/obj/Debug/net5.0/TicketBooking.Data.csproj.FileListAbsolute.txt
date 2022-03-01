@@ -1,0 +1,12 @@
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\bin\Debug\net5.0\TicketBooking.Data.deps.json
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\bin\Debug\net5.0\TicketBooking.Data.dll
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\bin\Debug\net5.0\ref\TicketBooking.Data.dll
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\bin\Debug\net5.0\TicketBooking.Data.pdb
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.csproj.AssemblyReference.cache
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.AssemblyInfoInputs.cache
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.AssemblyInfo.cs
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.dll
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\ref\TicketBooking.Data.dll
+D:\ASP.Net Core(Devskill)\AddieSoftLastNight\TicketBooking.API\TicketBooking.Data\obj\Debug\net5.0\TicketBooking.Data.pdb
